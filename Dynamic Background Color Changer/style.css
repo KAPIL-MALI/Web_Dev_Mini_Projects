@@ -1,0 +1,35 @@
+body{
+
+    background-color: rgb(234, 144, 144); /* Sets webpage background color to black */
+    padding: 0px; /* Removes inner spacing inside body */
+    margin: 0px; /* Removes default outer spacing of browser */
+    display: flex; /* Enables flexbox layout */
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    height: 100vh; /* Makes body height equal to full screen height */
+
+}
+
+button{
+
+    width:100px ; /* Sets button width to 100px */
+    height: 100px; /* Sets button height to 100px */
+    border: 1px solid black; /* Adds 1px solid black border around button */
+
+}
+
+#red{
+    background-color: rgb(229, 6, 6);
+}
+#blue{
+    background-color:rgb(53, 53, 249);
+}
+#orange{
+    background-color:rgb(244, 172, 40);
+}
+#green{
+    background-color:rgb(49, 241, 49);
+}
+#purple{
+    background-color: rgb(184, 80, 184);
+}
